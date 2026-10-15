@@ -1,5 +1,5 @@
 {
-    "name": "midnight blue wip",
+    "name": "midnight blue WIP",
     "description": "a simple blue dark theme",
     "authors": [
         {
@@ -30,7 +30,7 @@
             "#bca7cc"
         ],
         "CONTROL_OVERLAY_SECONDARY_BACKGROUND_DEFAULT": [
-            "#40275485"
+            "#402754"
         ],
         "CONTROL_PRIMARY_BACKGROUND_DEFAULT": [
             "#9d84b2"
@@ -39,10 +39,10 @@
             "#EEEDF5"
         ],
         "CONTROL_SECONDARY_BACKGROUND_ACTIVE": [
-            "#9371ad80"
+            "#433250"
         ],
         "CONTROL_SECONDARY_BACKGROUND_DEFAULT": [
-            "#9371ad40"
+            "#3e2e4a"
         ],
         "CONTROL_SECONDARY_BORDER_DEFAULT": [
             "#bca7cc"
