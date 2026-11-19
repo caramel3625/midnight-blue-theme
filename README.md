@@ -1,5 +1,7 @@
 # midnight-blue-theme
-a simple blue dark theme for revenge/shiggycord/kettu
+### a simple blue dark theme for revenge/shiggycord/kettu
+**install link:** https://raw.githubusercontent.com/caramel3625/midnight-blue-theme/refs/heads/main/midnight-blue.json  
+version with purple icons: https://raw.githubusercontent.com/caramel3625/midnight-blue-theme/refs/heads/main/midnight-blue-purple-icons.json
 
 <img width="380" alt="Screenshot_20261015-170337" src="https://github.com/user-attachments/assets/d8d06364-8c52-4328-8497-05d330401bf8" />
 <img width="380" alt="Screenshot_20261015-170402" src="https://github.com/user-attachments/assets/66cc6330-3064-4ccf-8afa-6a92a09e04ef" />
